@@ -1,0 +1,6 @@
+[submodule "restaurant-frontend"]
+	path = restaurant-frontend
+	url = https://github.com/Mianto/restaurant-frontend.git
+[submodule "restaurant-backend"]
+	path = restaurant-backend
+	url = https://github.com/Mianto/restaurant-backend.git
